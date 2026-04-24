@@ -21,6 +21,7 @@ i would not like to be someone who is actively promoting a git forge where maint
 - [microslop used PRs from folx like YOU AND ME as an ad surface for GODAWFUL IDIOT "copilot", 11k PRs to be exact, oh and they didnt stop AT "copilot" they advertised OTHER products too (no offense to raycast BUT you were caught in this)](https://archive.ph/OyhOY)
 - [openai, the company helping power "copilot", cornered 40% of the ram market, making YOUR workstation's upgrades and framework laptops more expensive, because "AGI"](https://archive.is/UnJPF)
 - [openai THEN didn't even HONOR any of the letters they used to steal 40% of the RAM from you, because they were either price gouging to hurt competitors, OR sam altmans sorry ass wanted to remind you he thinks you can personally fuck off in the name of "AGI"](https://archive.ph/pOZeD)
+- [the mentality of "copilot" and "ai agents" has rotten INDIVIUAL DEVELOPERS. some people do not like when an ai tool like claude code discloses usage of ai in the commits. which like. why. are you cowardly AND dishonest? do you WANT linus to write an essay about you on LKML?](https://archive.is/eCkap)
 
 ## <3
 go ahead. use forgejo. use gitea. use sourcehut if you think email patching is correct (you're wrong but thats not as wrong as copilot). use gitlab if youve got a foundation and an entire eV or whatever behind your foss project. use codeberg if you'd like your forgejo to be confirmed reliablely there. just. stop using this godforsaken ~~copilot forge~~ git forge. actually no there is no git its copilot.
